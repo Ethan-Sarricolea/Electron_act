@@ -1,0 +1,26 @@
+{
+  "name": "electron_act",
+  "version": "1.0.0",
+  "description": "Esta es la actividad que se desarrollara segun la clase y el tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethan-Sarricolea/Electron_act.git"
+  },
+  "author": "Ethan Yahel Sarricolea Cortes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ethan-Sarricolea/Electron_act/issues"
+  },
+  "homepage": "https://github.com/Ethan-Sarricolea/Electron_act#readme",
+  "devDependencies": {
+    "electron": "^35.1.2"
+  },
+  "dependencies": {
+    "electron_act": "file:"
+  }
+}
